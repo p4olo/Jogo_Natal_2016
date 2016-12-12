@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1481567296,
+	"version": 1481575089,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -28,6 +28,7 @@
 		"images/bg-sheet0.png",
 		"images/santashadow-sheet0.png",
 		"images/hitbox-sheet0.png",
+		"images/barra_bg-sheet0.png",
 		"icon-16.png",
 		"icon-32.png",
 		"icon-114.png",
