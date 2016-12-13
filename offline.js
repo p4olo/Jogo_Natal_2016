@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1481654607,
+	"version": 1481660325,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -43,6 +43,8 @@
 		"media/shovel-into-snow-1.ogg",
 		"media/tibuf.m4a",
 		"media/tibuf.ogg",
+		"media/itbuf2.m4a",
+		"media/itbuf2.ogg",
 		"media/bg_music_02.m4a",
 		"media/bg_music_02.ogg",
 		"icon-16.png",
